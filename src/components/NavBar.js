@@ -5,12 +5,12 @@ export const NavBar = () => {
     <nav>
       <ul>
         <li>
-          <NavLink to="/" className="index-link">
+          <NavLink className="index-link" to="/">
             Index
           </NavLink>
         </li>
         <li>
-          <NavLink to="/home" className="home-link">
+          <NavLink className="home-link" to="/home">
             Home
           </NavLink>
         </li>
