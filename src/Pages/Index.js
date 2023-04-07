@@ -1,6 +1,5 @@
 import React from 'react'
 
-const Index = () => {
+export const Index = () => {
   return <div id="index-page">Index Page</div>
 }
-export default Index
